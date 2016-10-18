@@ -1,0 +1,8 @@
+{
+  "name": "jquery-fuzzymatch",
+  "version": "1.0.0",
+  "main": "./jquery.fuzzymatch.min.js",
+  "dependencies": {
+    "jquery": "*"
+  }
+}
